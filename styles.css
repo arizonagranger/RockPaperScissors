@@ -7,7 +7,8 @@ body {
 	text-color: hsl(229, 64%, 46%);
 	font-family: "Bartow Semi Condensed";
 	font-weight: 600;
-	border: 2px hsl(217, 16%,45%);
+	border: 2px white;
+	border-radius: 5px;
 	padding: 20px;
 	margin: 20px;
 }

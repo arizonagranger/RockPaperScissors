@@ -1,3 +1,11 @@
 body {
   background-image: radial-gradient(hsl(214, 47%, 23%), hsl(237, 49%, 15%));
+  font-family: "Bartow Semi Condensed";
+}
+
+.score{
+	text-color: hsl(229, 64%, 46%);
+	font-family: "Bartow Semi Condensed";
+	font-weight: 600;
+	border: 
 }
